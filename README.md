@@ -1,12 +1,11 @@
 ### Hello!
 
 I'm Milena.
-
-🇧🇷 🌈  brazilian immigrant
-📚  daytime book PR babe
-🐶 🐶 full-time dog mom
-👩‍💻  part time code newbie
-👩🏻‍🍳  occasional home chef ☕ 🍜 🍙
+<br>🇧🇷 🌈  brazilian immigrant
+<br>📚  daytime book PR babe
+<br>🐶 🐶 full-time dog mom
+<br>👩‍💻  part time code newbie
+<br>👩🏻‍🍳  occasional home chef ☕ 🍜 🍙
 
 <!--
 **milenagiunco/milenagiunco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
