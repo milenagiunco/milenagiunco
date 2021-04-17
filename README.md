@@ -1,9 +1,9 @@
 ### Hello!
 
-I'm Milena.
-<br>🇧🇷 🌈  brazilian immigrant
+I'm Milena.<br>
+<br>🇧🇷 brazilian immigrant🌈 
 <br>📚  daytime book PR babe
-<br>🐶 🐶 full-time dog mom
+<br>🐶 full-time dog mom🐶 
 <br>👩‍💻  part time code newbie
 <br>👩🏻‍🍳  occasional home chef ☕ 🍜 🍙
 
