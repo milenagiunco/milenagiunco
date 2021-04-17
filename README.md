@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+
+You can find me on [![Twitter][1.2]][1].
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1]: https://twitter.com/MilenaGiunco
 
 <!--
 **milenagiunco/milenagiunco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
