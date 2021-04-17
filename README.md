@@ -1,7 +1,12 @@
 ### Hello!
 
-You can find me on [Twitter][1].
-[1]: https://twitter.com/MilenaGiunco
+I'm Milena.
+
+🇧🇷 🌈  brazilian immigrant
+📚  daytime book PR babe
+🐶 🐶 full-time dog mom
+👩‍💻  part time code newbie
+👩🏻‍🍳  occasional home chef ☕ 🍜 🍙
 
 <!--
 **milenagiunco/milenagiunco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
