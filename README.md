@@ -1,11 +1,9 @@
-### Hello!
-
-I'm Milena.<br>
-<br>🇧🇷 brazilian immigrant🌈 
-<br>📚  daytime book PR babe
-<br>🐶 full-time dog mom🐶 
-<br>👩‍💻  part time code newbie
-<br>👩🏻‍🍳  occasional home chef ☕ 🍜 🍙
+### Hello! I'm Milena.<br>
+<br>🇧🇷 &nbsp; brazilian immigrant &nbsp; 🌈 
+<br>📚 &nbsp; daytime book PR babe
+<br>🐶 &nbsp; full-time dog mom &nbsp; 🐶 
+<br>👩‍💻 &nbsp; part time code newbie
+<br>👩🏻‍🍳 &nbsp; occasional home chef &nbsp; ☕ 🍜 🍙
 
 <!--
 **milenagiunco/milenagiunco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
