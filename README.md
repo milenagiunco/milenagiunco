@@ -1,7 +1,6 @@
 ### Hello!
 
-You can find me on [![Twitter][1.2]][1].
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+You can find me on [Twitter][1].
 [1]: https://twitter.com/MilenaGiunco
 
 <!--
